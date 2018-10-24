@@ -28,4 +28,5 @@
   + [titanic-solution.ipynb](https://github.com/changwookjun/Kaggle/blob/master/Titanic/titanic-solution.ipynb)  
 
 
-Author ChangWookJun / @changwookjun
+# Author
+ChangWookJun / @changwookjun (changwookjun@gmail.com)
